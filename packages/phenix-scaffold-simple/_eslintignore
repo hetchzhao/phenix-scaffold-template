@@ -1,0 +1,14 @@
+# directory
+build/
+tests/
+demo/
+
+# node coverage file
+coverage/
+
+# files
+**/*-min.js
+**/*.min.js
+
+package-lock.json
+yarn.lock

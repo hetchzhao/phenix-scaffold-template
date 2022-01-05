@@ -1,0 +1,48 @@
+{
+  "name": "phenix-scaffold-simple",
+  "version": "0.0.2",
+  "description": "> TODO: description",
+  "author": "hetchzhao <hetchzhao@aliyun.com>",
+  "homepage": "https://github.com/hetchzhao/phenix-scaffold-template/tree/main/packages/phenix-scaffold-simple#readme",
+  "license": "ISC",
+  "files": [
+    ".vscode",
+    "public",
+    "src",
+    "_editorconfig",
+    "_eslintignore",
+    "_eslintrc.js",
+    "_gitignore",
+    "_prettierignore",
+    "_prettierrc.js",
+    "_stylelintignore",
+    "_stylelintrc.js",
+    "babel.config.js",
+    "phenix.config.js",
+    "tsconfig.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hetchzhao/phenix-scaffold-template.git"
+  },
+  "scripts": {
+    "start": "",
+    "build": ""
+  },
+  "bugs": {
+    "url": "https://github.com/hetchzhao/phenix-scaffold-template/issues"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.12"
+  },
+  "devDependencies": {
+    "babel-preset-phenix": "^0.1.0",
+    "eslint": "^8.5.0",
+    "prettier": "^2.5.1",
+    "stylelint": "^14.0.0",
+    "typescript": "~4.1.5",
+    "phenix-spec": "^0.1.0"
+  }
+}
