@@ -1,0 +1,22 @@
+{
+  "name": "phenix-scaffold-template",
+  "version": "1.0.0",
+  "description": "前端脚手架模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hetchzhao/phenix-scaffold-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hetchzhao/phenix-scaffold-template/issues"
+  },
+  "homepage": "https://github.com/hetchzhao/phenix-scaffold-template#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
